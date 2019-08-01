@@ -1,6 +1,6 @@
-# empty-project
+# UI-Library
 
-Empty project.
+This is a personal UI-Library.
 
 ## Building and running on localhost
 
@@ -31,7 +31,3 @@ npm run build-dev
 ## Running
 
 Open the file `dist/index.html` in your browser
-
-## Credits
-
-Made with [createapp.dev](https://createapp.dev/)
